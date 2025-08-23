@@ -1,3 +1,5 @@
 # CPSC-351
 
-# Test to see if GitHub is connected to VSCode.
+# Test 1 to see if GitHub is connected to VSCode.
+
+# Test 2 to see if GitHub is connected to VSCode.
