@@ -5,3 +5,5 @@
 # Test 2 to see if GitHub is connected to VSCode.
 
 # Test 3 to see if GitHub is connected to VSCode.
+
+# Test 4 to see if GitHub is connected to VSCode.
